@@ -30,9 +30,9 @@
 
   <p>Coming when I'll have stats to show 😅</p>
 
-  <!-- <img align="left" alt="Alan GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlanDbq&show_icons=true&hide_border=true" />
+  <img align="left" alt="Alan GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlanDbq&show_icons=true&hide_border=true" />
   <br>
-  <img align="left" alt="Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanDbq&layout=compact" /> -->
+  <img align="left" alt="Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanDbq&layout=compact" />
 
 
 </details>
