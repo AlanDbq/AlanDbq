@@ -28,4 +28,4 @@
   <img align="left" alt="Alan GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlanDbq&theme=dark&show_icons=true" />
   <br />
   <br />
-  <img align="right" alt="Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanDbq&theme=dark&layout=compact" />
+  <img align="left" alt="Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanDbq&theme=dark&layout=compact" />
