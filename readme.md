@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&color=C3C3C3&vCenter=true&lines=Hi+I'm+Alan+%F0%9F%91%8B+;I'm+a+junior+web+developer;Always+ready+to+learn+new+things+)](https://git.io/typing-svg)
 
+<img align="center" alt="header" src="https://i.pinimg.com/originals/c0/be/bf/c0bebfc2caf6517b5a908de3513dddbd.jpg">
 
 ### Languages and Tools:
 
